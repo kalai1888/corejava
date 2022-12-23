@@ -18,7 +18,7 @@ public class StringLength {
   //  System.out.println(str.toUpperCase());
   //  4.trip or trim
   //  String str= " hello";
-  //System.out.println(str.toUpperCase());
+  //System.out.println(str.trim());
  //   5. aschi valus
 	//	String str="welcome";
 //		int values=str.charAt(1);
@@ -26,11 +26,7 @@ public class StringLength {
 //		System.out.println(values);
 	//	6 .substring
 		String str="programing";
-		System.out.println(str.substring(5, 9));
-		
-		
-		
-		
+		System.out.println(str.substring(5, 9));		
     
 }
 }
